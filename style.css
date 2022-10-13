@@ -293,17 +293,7 @@ nav>ul>li>a:hover::after {
 }
 
 
-.fa-arrow-up {
-    position:fixed;
-    bottom: 10%;
-    right: 4%;
-    font-size: 2em;
-    color: white;
-    border: 3px solid white;
-    background-color: black;
-    padding: 0.2em 0.3em;
-    border-radius: 20px;
-}
+
 /* done */
 
 .black-bottom {
