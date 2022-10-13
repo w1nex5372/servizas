@@ -26,6 +26,3 @@ nava.forEach((link) => {
 const faArrowUp = document.querySelector('.fa-arrow-up');
 
 
-faArrowUp.addEventListener('click', () => {
-    window.scrollTo(0 , 0)
-})
