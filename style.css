@@ -359,7 +359,9 @@ nav>ul>li>a:hover::after {
         background-color: rgba(255, 255, 255, 0.123);
         }
 
- 
+    nav > ul > li > a {
+        padding-top : 0.2em;
+    }
 
     .triple-flex-parent {
         display: block;
